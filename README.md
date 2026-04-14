@@ -8,4 +8,4 @@ This repository contains the code and CAD files for the Synaptech three-finger s
 
 - `code/final_code_wCalib_PID.ino` — Arduino firmware for PID control, FSR-based force classification, and pump actuation
 - `code/bend_calibration_final.py` — Python script for vision-based bend sensor calibration using ArUco markers and OpenCV
-- `CAD/` — STEP files for the rigid base components and finger foundation blocks. Full silicone mould CAD files are available upon request.
+- `CAD/` — STEP files for the rigid base components, finger foundation blocks and silicone mould CAD.
